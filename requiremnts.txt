@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+tensorflow
+keras
+
+
